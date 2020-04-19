@@ -1,0 +1,6 @@
+id=zipbin
+name=Zip Binary
+version=Module
+versionCode=00001
+author=ip
+description=Overlay a zip binary into system/bin
