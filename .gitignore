@@ -1,7 +1,8 @@
 # ignore out directory
 out/*
 
-# ignore xfiles and DS_Store
+# ignore mk, xfiles and DS_Store
+mk_*
 xfiles/*
 .DS_Store*
 
