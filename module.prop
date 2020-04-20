@@ -1,6 +1,6 @@
 id=zipbin
 name=Zip Binary
 version=Module
-versionCode=00001
+versionCode=00002
 author=ip
-description=Overlay a zip binary into system/bin
+description=Simple module that will add a zip binary into system/bin
