@@ -1,6 +1,6 @@
 id=zipbin
 name=Zip Binary
 version=Module
-versionCode=00002
+versionCode=00003
 author=ip
 description=Simple module that will add a zip binary into system/bin

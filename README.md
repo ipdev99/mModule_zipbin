@@ -12,8 +12,7 @@ Available in the releases tab. [Link](https://github.com/ipdev99/mModule_zipbin/
 - Reboot device
 
 ### Recent changes
-- Updated from legacy to current format.  
-- Some minor cleanup.  
+- Updated to the current installer. [Link](https://github.com/topjohnwu/Magisk/commit/cf47214ee4912ed1538fbea3d09ba9dd9b5746b0)
 
 ### Notes
 - Feel free to use, change, improve, adapt.  
