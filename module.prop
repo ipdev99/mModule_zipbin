@@ -1,6 +1,8 @@
 id=zipbin
 name=Zip Binary
-version=Module
-versionCode=00003
+version=Module (v4)
+versionCode=40
 author=ip
 description=Simple module that will add a zip binary into system/bin
+support=https://github.com/ipdev99/mModule_zipbin
+updateJson=https://raw.githubusercontent.com/ipdev99/mModule_zipbin/master/zipbin.json
